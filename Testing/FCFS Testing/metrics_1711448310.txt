@@ -1,0 +1,6 @@
+        Process   Arrival Time     Burst Time   Waiting Time     Turnaround Time  Response Time
+             p3              0              3              0                   3              0
+             p1              2              5              1                   6              1
+             p4              4              6              4                  10              4
+
+Average Waiting Time: 1.66667
